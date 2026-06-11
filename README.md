@@ -1,5 +1,7 @@
 # ⏰ Relógio Digital
 
+![Demonstração](./assets/relogio_digital.gif)
+
 ## 📖 Sobre o Projeto
 
 Este projeto consiste em um **Relógio Digital** desenvolvido utilizando **HTML, CSS e JavaScript**, capaz de exibir em tempo real as horas, minutos e segundos diretamente na tela.
